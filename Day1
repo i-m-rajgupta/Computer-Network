@@ -1,0 +1,23 @@
+Basics of Computer Networks  
+
+Computer :Network - A network is group of connected nodes that can communicate the data and share the resources.
+
+The Internet is the example of computer network which connects the multiple devices accross the world .
+
+The network is made up of three major components are Node,Networking device and transmission medium .
+
+Node - Any devices that can transmits or receive the data is known as Node.
+Example : - Laptop,mobile phones ,computer etc.
+Types of node :-
+Client - A node that request the service in the network is known as client .
+Ex : - laptop ,mobile 
+Server - A node that provide service to the client is known as server .
+Ex : - Web server ,mobile server ,database server etc.
+
+Nodes are connected through transmission medium in the network .
+
+Trasmission meduim can either wired like optical fiber ,coaxial cable or wireless like wifi or bluetooth 
+
+Networking devices are used to provide the different functionality in the network and used to running the different protocols .
+Router ,Switch and firewall are different example of different networking devices.
+

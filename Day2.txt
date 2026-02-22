@@ -1,0 +1,47 @@
+Network Architecture 
+
+Netwok Architecture defines the logical and physical structure ,task allocation and connectivity between client and server .
+It shows how different devices,protoccols and medium works together .
+
+The network architecture is designed by the network architects who create the blueprint of the Network Architecture and network engineer build those with 
+the network architecture .
+
+There are two main types of network architecture are Peer to Peer Architecture and Client and Server Architecture .Some advance architecture includes the 
+hybrid architecture ,cloud based architecture and software defined networking(SDN).
+
+Peer to Peer Architecture - This type of architecture connects the devices with each other for the communication .Each devices acts both as client and 
+server .
+Example of Peer to Peer architecture is network connected for 10 pc in office.
+It is suitable for small offices ,organization and in our home .
+This type of architecture is cheap and easy to manage.
+Peer to peer architecture is not stable and scalable and it also has security concerns .
+
+Client and Server Architecture - The Client and Server acrhitecture uses the centralized and powerful computer to provides the services and responses which are known as server  and other devices access the service by requesting to the server are called client.
+The best example of this architecture is when we browse any thing on the google chrome or any web brower we who uses the different services are client and 
+google server is known as web server .
+
+Client and server architecture is stable and scalable.
+It provides the control uses of resources and provide the data security.
+
+Since whole system relies on the single central server failure of server causes whole network failure.
+This architecture is complex to manage .
+
+Hybrid Network Architecture uses the elements from both peer to peer network and client server architecture .The example is the tornett network which uses
+the peer to peer architecture in server management and  client server model to provide the services.
+
+This model is complex as it uses both architecture .
+
+Cloud based Architecture uses to provide the resources on demand over the internet from a providers infrastructure .different cloud providers are aws,microsoft azure and google cloud.
+
+This models provide the elasticity and scalablity. 
+There is privacy concern as data is managed by the third party vendor.
+
+Software Defined Networking is way of managing the computer network with the help of centralized software to control all the hardware at once.
+Like in traditional networking if we implement the 100 routers in network we have to implement 100 router individually while using this we implement
+100 router at once using the brain computer of SDN.
+
+Some sdn vendor are cisco vmware junifer etc.  
+
+
+
+

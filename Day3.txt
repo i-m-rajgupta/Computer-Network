@@ -1,0 +1,41 @@
+Hello Everyone ,
+
+Network Topology in Computer Networks 
+
+Network Topology is defined as the arrangement of different communication devices like nodes and links.
+There is mainly two types of network topology are Physical topology and logical topology.
+
+In the logical topology we emphasizes about the pattern of data transfer between network .
+And in the physical topology we deals with the physical layout of the connected devices and nodes.
+
+There are mainly six types of physical network topology are :-
+
+1. Bus topology - This is the simplest topology in which each node is connected by the main cable with the help of drop cable.
+This kind of topology is easy to manage and handle and in this topology the failure main cable causes the failure of network .
+
+2.Star topology - In this topology all the nodes are connected with the help of central hub .We use switch or hub as the central hub .
+Each node whether it request services or offer services has to first connect with the central hub.
+ This kind of topology is scalable and since all the network is dependent upon the central hub failure of central hub causes the failure of whole 
+network .
+
+3.Ring topology - In this topology , computers are connected in such a way that it forms the ring like structure and message passing is done in circular 
+and unidirectional fashion. Each pc has alloted a fixed amount of time to access the transmission in the network .
+
+In this topology only fewer amount of cable is used and also it minimizes the possibility of data collision .
+Failure of any node will cause the failure of whole network .
+
+4.Mesh topology - In mesh topology ,Each computer is connected with the another computer in the network .If there is N node ,then the one single node is connected 
+by the n-1 node.
+
+The mesh toplogy maintains security and privacy as there is separate communication for each node and also there is backup path available for the network 
+in case of node failure . There is more requirement of cable so this topology becomes expensive .
+
+5.Tree topology - In Tree topology ,All nodes are either directly or indirectly connected to the main bus cable .Bus and star topology are combined to
+form the tree topology .
+
+If one of the hierarachical network fails,the others are unaffected .The cost of cabling and hardware is high.
+
+6.Hybrid topology - In hybrid topology , different topology are used to form this topology .
+It allows more nodes to join the network and we can also modify the network our need .The implementation of hybrid topology is costly. 
+ 
+

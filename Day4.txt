@@ -1,0 +1,53 @@
+Hello Everyone,
+
+Types of Network in the Computer Network
+
+Types of Network is classified on the basis of different ways are :-
+Geographical area,Transmission medium and Ownership and accessibility
+
+Geographical area - Geographical area refers to the area covered by the network or in other words range of network 
+
+There are mainly five ways on the basis of geographical area are :- PAN,LAN,CAN,MAN,WAN
+
+PAN (Personal Area Network) - Personal Area network is the smallest range of network in which we connected the local devices.
+It is connected with the help of Bluetooth,nic .
+Real life examples of using the PAN is Connecting the smartphone and Smart Watch with the help of bluetooth.
+
+LAN (Local Area Network) - Local Area Network is used to provide connnectivity in the small office ,rooms etc.
+It is connected with the help of Wifi,Ethernet.
+Example of LAN is Office Wifi network.
+
+CAN (Campus Area Network) - It is used to provice the network connectivity in building and campus .
+It is connected with the help of ethernet cable and optical fibre cable.
+Example of CAN is University Network.
+
+MAN (Metropolitan Area Network )  - It is used to provide the connectivity in one city or town.
+It is connected with the help of Optical fibre ,Macro Ethernet.
+Example of MAN is city wide ISP.
+
+WAN (Wide Area Network ) - It is used to connect the country and continent.
+It is connected with the help of satellite and internet.
+The best example of WAN is Internet.
+
+Transmission Medium - Transmission Medium refers to the method used to share the data signals from one device to another .
+
+The network types based on the transmission medium is Broadcast network and Point-to-Point Network.
+
+Broadcast Network - In this network the data transmitted by the single node  is received by all the other nodes in the network and the device with matching destination address receive the data packets.
+
+Example of Broad Cast network is Ethernet and Wifi.
+
+Point-to-point Network - In this network the data transmitted by one node is transmitted only to the intended nodes.
+Example of Point-to-Point Network is Internet.
+
+Ownership and accessibility - It defines the who is permitted to use the network and who owns it.
+
+Private Network - Private Network is owned by the single organization and only authorized user can access the network with the help of userId and password
+Example of private Network is company's internal network.
+
+Public Netwrok - Public Network is owned by the service providers and government bodies and user can simply access to it.
+Example of public Network is Railwire or Public wifi network.
+
+Hybrid Network - Hybrid Network uses both the public and private network .
+Example of hybrid network is bank's network - Internal network is implemented through the private network and external is open to all the user.
+

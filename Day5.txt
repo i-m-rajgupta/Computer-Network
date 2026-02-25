@@ -1,0 +1,27 @@
+Hello Friends ,
+
+Data communication and its basic concepts in Computer Network.
+
+Data communication - It is defined as the transferring of data between the devices with the help of transmit medium.
+The data communication can occur in two ways whether Analog or Digital .
+
+There are five main components for happening of the data communicaion are data,sender,receiver,transmission medium and protocols.
+This can be understood with the help of example of sending the message to your friend in whatsapp.
+Here,
+Message is data, 
+You are sender,
+Your friend is receiver,
+Internet is the transmission medium,
+Communcation rules is the protocols.
+
+On the basis of transmission of data signal Data Communication is divided into main types are Analog and Digital Communication.
+In the Analog comunication the data is data is transferred in the continous form like in the waves and they vary smoothly over time.
+Radio signal and TV Broad cast are the example of Analog communication .
+It is simple technology but it distort the signal over the large distance and also it is not more reliable and it contains the more noise.
+
+In the Digital Communication the data is transffered in the discrete value either in 0 and 1.
+It is most widely used in today communication . The example of digital communication is computer and internet
+Advantages of using the Digital Communication contains less noise and it is more reliable.
+
+
+

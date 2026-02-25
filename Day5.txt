@@ -24,4 +24,24 @@ It is most widely used in today communication . The example of digital communica
 Advantages of using the Digital Communication contains less noise and it is more reliable.
 
 
+In the Data communcation there is two most important parameter to measure the speed of data transfer that is bandwidth and Throughput.
+The Bandwidth is the maximum amount of data any interface can transfer .It is measured in bits per second.
+For example Ethernet cable has bandwidth of 10mbps while fast ethernet has bandwidth of 100mbps.
+
+Now the throughput is the actual speed of the data tranfer in the interface.It is mostly less than the actual bandwidth due to the noise and hardware 
+limitations. 
+
+Sometimes we experience the video buffering and voice breaking during the call it happens due to the latency and jitter.
+Latency is defined as the time taken to reach the data from the sender to the receiver.
+Low latency gives us the better experience in Online gaming and video calls.
+
+While Jitter is defined as the variation in the latency in the data transfer .
+Low jitter gives is required for the better  user experience.
+
+On the basis of way of communication performs ,Data communication is divided into three main types are Simples,Half Duples and Full Duplex.
+
+Simplex - It is the one way communictaion of the data .Communication between the keyboard and monitors comes under the simplex communication .
+Half Duplex - It is the two way communication of data but one way at a time . Walkie - talkie is the example of half duplex in which pnly person in speaking at a time.
+Full Duplex - It is the two way communication of data in which both devices can transfer the data simultaneously.Data transmission with Ethernet cable is 
+full duplex.
 

@@ -7,5 +7,102 @@ It is divided into two main categories that is guided and unguided medium .
 Guided Medium - Guided medium uses the transmission over the physical medium like copper wires and optical fibers to transmit the data .
 The guided medium more secure and reliable data communication and also it has fast speed.
 Example of guided medium is when we connect our laptop to hub with the help of cable.
-Also there is three main tyoes of guided medium is :
+Also there is three main types of guided medium is :
+Twisted pair cable,coaxial cable and optical fibre cable
+Twisted pair cable - Twisted pair cable consists of the two insulated copper cable twisting with each other to reduce the electromagnetic interference 
+EMI.
+
+Characteristics of the Twisted pair cable is that :
+Its range is upto 100m.
+It is easy to install .
+It provides speed upto 10 Gbps.
+
+Application of Twisted pair cable is in Office Network,Telephone lines etc.
+It is further subdivided into the UTP (Unshielded Twisted Pair ) cable and STP (Shielded Twisted Pair ) cable.
+Example of twisted pair cable is connecting the PC to the swicth in office network.
  
+Coaxial copper cable - It is the cable containing the central copper cable with the insulating layer shield ,mettalic shield and outer plastic cover.
+The cable provides the protection from the signal Interference.
+
+Characteristics of Coaxial fibre cable :-
+It provides the better bandwidth than the twisted pair cable.
+It provides the loonger distance service transmission and also it provides the strong protection against the EMI.
+
+Application of Coaxial fibre include the Cable television and BroadBand Internet
+When our TV is connected with the setbox it uses the coaxial cable.
+
+Optical Fibre Cable - The optical fibre uses the data transmission in the form of light pulses through the glass and plastic core.
+It uses the core and cladding in its structure.
+
+Characteristics of Optical Fibre are:-
+
+It provides high speed upto TB.
+It is transferrred over the large distance and is very secure.
+It is immune to the emi interface.
+
+Application of Optical fiber cable :-
+It is widely used in the Data Centers and cloud computing .
+IT is also used in the submarine to get the 
+Our major internet is transmitted  through the optical fiber under the ocean.
+
+Unguided Medium - In this medium of transmitting the data we uses air as the electromagnetic waves using the air ,vaccum and space.
+It is widely used in our daily to daily life.
+
+Characteris of Unguided MEdium is :-
+It provide more flexibility and Mobility.
+There is no need to connect the physical wire to the devices.
+
+Application - Contactless payment,tracking system 
+When we connect our mobile phones to the homes wifi it uses the unguided medium.
+
+Now we have understood how data is communicated over the transmission medium .Now how we connect our device to the network.
+NIC (Network Interface Card) - It is a hardware component which connects the  device to the network.
+Every NIC has the unique MAC (Media Access Control) address .
+
+There is also two types of NIC is wired NIC and wireless NIC.
+wired NIC uses the ethernet port while wireless NIC uses the wifi adapter.
+
+Application -
+Ethernet port of your laptop 
+Wifi adptor of your mobile.
+Server contains the Network cards.
+
+For connecting Network we require NIC.Without it computer cannot send or receive the data.
+
+Now we have seen how to connect the devices physically for the data communication in computer networks.
+But it also has to follow some communication rules that are called protocols.
+
+Protocols - It is the set of standardized rules how data is transmitted ,received and formatted over the network . In others these rules govern the 
+data to communicate over the network.
+
+Different Types of Protocols are :-
+TCP(Transmission Control Protocol)  - which is used to provide the  reliable communication , 
+IP(Internet Protocol) - which is used to provide the logical addressing and routing .
+HTTP(Hyper text transfer protocol) - used in loading the webpages.
+
+Working of Protocol is when you open any website .
+HTTP make request the webpage.
+TCP ensures to arrive all packet receive in the correct order.
+IP provides data packet for route to the correct destination device.
+
+Now move to the largest and most widely used network in the world - Internet.
+Internet is the decentralized system of network linked with the routers,servers and transmission media.
+The internet is the global of the interconnected devices.It connects millions of devices to provide the data communication.
+  
+Usage of Internet-
+Browsing the Google,Watching cricket ,listening music 
+Sending Email , Online banking ,Online Shopping 
+
+The internet is public and access by everyone through the proper connectivity.Data travels accross the country with the help of optical cable and bakcbone 
+routers.
+
+While the internet is public and accessed by anyone but organization need private network accessed by only authorized user. And for this Intranet is used.
+Intranet - It  is the private network used by the organization to provide to access to only authorized users.
+It uses the same technology like TCP,HTTP,IP but with the restrition of accessbility to only some authorized people only.
+
+Intranet imporves performance as it is only access for limited people,increases security as only authorized people access it .
+
+
+
+ 
+

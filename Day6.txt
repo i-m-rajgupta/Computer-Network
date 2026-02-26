@@ -1,0 +1,11 @@
+Hello Everyone,
+
+Transmission medium and protocols in Computer Networks
+
+Transmission medium - It defines the path over which the data get communicated with the sender and receiver.
+It is divided into two main categories that is guided and unguided medium .
+Guided Medium - Guided medium uses the transmission over the physical medium like copper wires and optical fibers to transmit the data .
+The guided medium more secure and reliable data communication and also it has fast speed.
+Example of guided medium is when we connect our laptop to hub with the help of cable.
+Also there is three main tyoes of guided medium is :
+ 

@@ -26,7 +26,7 @@ The cable provides the protection from the signal Interference.
 
 Characteristics of Coaxial fibre cable :-
 It provides the better bandwidth than the twisted pair cable.
-It provides the loonger distance service transmission and also it provides the strong protection against the EMI.
+It provides the longer distance service transmission and also it provides the strong protection against the EMI.
 
 Application of Coaxial fibre include the Cable television and BroadBand Internet
 When our TV is connected with the setbox it uses the coaxial cable.
@@ -42,17 +42,16 @@ It is immune to the emi interface.
 
 Application of Optical fiber cable :-
 It is widely used in the Data Centers and cloud computing .
-IT is also used in the submarine to get the 
-Our major internet is transmitted  through the optical fiber under the ocean.
+IT is also used in the submarine to get our internet which is transmitted  through the optical fiber under the ocean.
 
-Unguided Medium - In this medium of transmitting the data we uses air as the electromagnetic waves using the air ,vaccum and space.
+Unguided Medium - In this medium for transmitting the data we uses air as the electromagnetic waves using the air ,vaccum and space.
 It is widely used in our daily to daily life.
 
 Characteris of Unguided MEdium is :-
 It provide more flexibility and Mobility.
 There is no need to connect the physical wire to the devices.
 
-Application - Contactless payment,tracking system 
+Application - Heaphones,Wireless keyboard and mouse
 When we connect our mobile phones to the homes wifi it uses the unguided medium.
 
 Now we have understood how data is communicated over the transmission medium .Now how we connect our device to the network.

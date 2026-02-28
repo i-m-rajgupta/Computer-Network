@@ -1,3 +1,6 @@
 Hello Everyone,
 
-OSI Layes of the network
+OSI Layers of the network
+
+There are 7 layers in the OSI models 
+Application layers,Presentation layers,Session Layers, Network Layers,Transport Layers,Data Link Layers , Physical Layers.

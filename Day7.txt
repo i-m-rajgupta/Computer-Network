@@ -6,3 +6,4 @@ There are 7 layers in the OSI models
 Application layers,Presentation layers,Session Layers, Network Layers,Transport Layers,Data Link Layers , Physical Layers.
 
 Application layer - this layer is use to interaction with the end user or customer.
+Presentation layer - this layer is use for encapsutlation and decapsulation the data.

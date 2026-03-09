@@ -7,3 +7,4 @@ Application layers,Presentation layers,Session Layers, Network Layers,Transport 
 
 Application layer - this layer is use to interaction with the end user or customer.
 Presentation layer - this layer is use for encapsutlation and decapsulation the data.
+Session layer - it minatains session 

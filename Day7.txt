@@ -11,5 +11,51 @@ Here Protocols refers to the set of rules that governs the data communication be
 In other words,Protocols defines the structure ,timing and error handling mechanisms for data exchange while standards ensure that devices and systems from 
 differnt vendors can work together without the compatibility issues.
 
+There are two Network models in Computer Network are OSI and TCP IP model.
 
+OSI Model - It stands for "Open Systems Interconnection" model. This model is developed by ISO(International Organization for Standardization). It is 
+conceptual model which categorizes the different function in the network.
+
+The OSI model consists of seven layers are Application layer,presentation layer,session layer,transport layer ,network layer ,data link layer and physical 
+layer. These layers work together to make the network work.
+
+Application layer - This is the layer which software application  interacts for example web browser like brave ,bing chrome etc.
+This layer is closest to the end user. It provides the process to process communication.
+Protocols like HTTP,FTP used in this layer.
+
+Presentation layer - This layer is used to format the data.It encrypts the data when send and decrypts the data when received.
+
+Session layer - This layer is used to create, maintain and terminate connections between the local computer like your computer and remote server like 
+youtube server.
+
+For example - When we enter any web site it create session for storing our logging information.
+
+
+Transport layer - This layer is used to provide the host to host and end to end communication.This layer uses the port address for transmission.
+It segments and reassmbles data for communication between end host. It divides the large piece of data into small pieces so that it can transmit 
+easily .
+
+TCP and UDP protocol are used in this layer.
+
+Network layer - This layer is used to provide the connectivity between end hosts on different network.It uses the ip address and provides the path selection between the source and destination.
+
+Router operates at the network layer.
+
+Data link layer - This layer is used to provide the node to node connectivity and data transfer like PC to switch ,switch to switch,router to router
+etc. It defines how data is formatted for the transmission over a physical medium for example using copper Utp cables.
+It uses the CRC algorithm for error detection.
+
+Switch operates at data link layer.
+
+Physical layer - This layer converts digital bits into the electrical signal or radio signals and defines the physical characteristic like voltage level for data transmission .
+
+Hub ,repeater and different cables operates in the physical layer.
+ 
+
+PDU - Protocol data unit - In OSI model there is different pdu which defines data in different layer.
+In application layer,presenation layer and session layer the pdu is known as data.
+When header is added to data in transport layer it becomes segment.
+In network layer it is known as packet when header is added to segment.
+In data link layer it is known as frame after adding of header and trailer to the packet .
+And in physical layer it is known to be the bits after conversion of frame from digital signal. 
 

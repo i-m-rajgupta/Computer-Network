@@ -1,10 +1,15 @@
 Hello Everyone,
 
-OSI Layers of the network
+Network models in Computer Network
 
-There are 7 layers in the OSI models 
-Application layers,Presentation layers,Session Layers, Network Layers,Transport Layers,Data Link Layers , Physical Layers.
+Network models - It provides a structure for the different networking protocols and standards.
+Here Protocols refers to the set of rules that governs the data communication between the devices in a network .
+ Example :- TCP,IP ,HTTP
+ Standards are the universally accepted guidelines that ensures compatability and interoperability between different technologies and network.
+ Example :- IEEE,ISO
 
-Application layer - this layer is use to interaction with the end user or customer.
-Presentation layer - this layer is use for encapsutlation and decapsulation the data.
-Session layer - it minatains session 
+In other words,Protocols defines the structure ,timing and error handling mechanisms for data exchange while standards ensure that devices and systems from 
+differnt vendors can work together without the compatibility issues.
+
+
+

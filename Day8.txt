@@ -1,0 +1,38 @@
+Hello Everyone,
+
+Network Models - TCP/IP Model
+
+TCP/IP model - This is functional framework that standardizes how data is paketized,addressed and transmitted over the Internet.It ensures the realiable end-to-end communication by breaking data into packets and routing hem and reassembling them at the destination.
+
+This model contains four layers which are Application layer,Transport layer,Internet layer and Link Layer.
+
+Link layer - This is the lowest layer of the model which describes what links such as serial lines or classic ethernet must do to meet the needs of this 
+connectionless internet layer.
+
+Ethernet ,Bluetooth are used to provide the connection in this layer.
+
+Internet Layer - The job of this layer is to permit the hosts to inject the packets into any network and have them travel independently to the destination.
+They may also arrive out of order.
+
+The IP and ICMP protocol works in this layer.
+
+Transport layer - This layer is designed to allow the peer entities on source and destination to carry on a conversation.Two protocols are used in this layer is TCP which is connection oriented and reliable and another one is UDP which connectionless and unreliable.
+
+Application layer- The TCP/IP model does not have the presentation and session layer .On the top of transport layer there is application layer which is the highest layer containing protocols like Telnet ,FTP,HTTP etc.
+
+Comparision of OSI and TCP/IP model
+
+The OSI and TCP/IP models contains much similiarity like both are based on the concept of stack of independent  protocols and transport layer in both model provides the end to end communication.
+
+Despite these similarity ,they also contains some differnces are 
+
+OSI model contains the session and presentaion layer whereas TCP/IP model done working of these layer within the application layer.
+OSI model is a theoretical model developed by the ISO whereas TCP/IP model is practical model developed by DoD for internet use.
+In OSI model each layer is strictly independent with clear interfaces whereas in TCP/IP they are more integrated.
+OSI model is used as reference for teaching /network design whereas TCP/IP model is used by Internet globally.
+OSI model was developed before the widespread of the Internet whereas TCP/IP model was developed specifically for the Internet implementation.
+
+
+
+ 
+

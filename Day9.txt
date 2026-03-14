@@ -5,5 +5,36 @@ Ip Address in Network
 IP Address - The Ip address is unique numerical label assigned to every device on the network.
 It helps device to identify each other ,receive and send data and enables communication .
 
-It is supposed to be our home address 
+IP address is supposed to be our home address .
+Just like a postal service uses the home address to deliver the correct letter in similar way the internet uses the ip address for correct delivery of 
+data
+
+Example of IP Address is 192.168.10.1
+Every device has the unique IP Address on the internet.
+The IP Address has two main versions are 
+IPv4 and IPv6
+
+IPv4 
+IPv4 stands for the Internet Protocol version 4 .
+It is the 32 bit address written in dotted decimal notataion .
+It is divided into 4 octects ranging from 0 to 255
+Example 192.168.1.1
+Here each part is octet because they contain the 8 bits
+
+IPv4 supports about 4.3 billion ip address but due to huge growth of the internet it is running out.
+That is why IPv6 introduced
+
+IPv6 
+IPv6 stands for Internet Protocol version 6
+It is 128 bit address written in hexadecimal form.
+It is divided into 8 groups separated by colon.
+Each group contains 4 hexadecimal digits.
+
+Ex : 2008:0::1
+It supports massive address about 340 undecillion.
+
+Also IPv6 provides the built in IPsec security.
+
+IPv4 is older and limited ,while IPv6 is newer,faster,secure and supports a massive number of address.
+
 

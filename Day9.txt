@@ -1,3 +1,9 @@
 Hello Everyone,
 
-Ipv4 and IPv6
+Ip Address in Network 
+
+IP Address - The Ip address is unique numerical label assigned to every device on the network.
+It helps device to identify each other ,receive and send data and enables communication .
+
+It is supposed to be our home address 
+

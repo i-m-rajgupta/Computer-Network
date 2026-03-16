@@ -5,3 +5,5 @@ Public and Private IP
 Static and Dynamic IP
 Loopback Address
 APIPA
+
+Classful Addressing - It is the address of class A,class B,class C,class D and class E 

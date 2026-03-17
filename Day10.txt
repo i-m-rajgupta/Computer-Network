@@ -7,3 +7,5 @@ Loopback Address
 APIPA
 
 Classful Addressing - It is the address of class A,class B,class C,class D and class E 
+
+Classless Addressing - It provides the address of different prefix length 

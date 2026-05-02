@@ -1,0 +1,37 @@
+Hello Everyone,
+
+Today's topic is Subnetting
+
+Subnetting allows the larger network to be split into the smaller network for greater efficiency.These smaller network are known as subnets
+ or subnetworks.
+
+There is an autority named IANA (internet assigned numbers authority) which assigns ipv4 address/networks to the companies based on their size.
+
+In classful address ,
+Class A -> 1.6 crore usable address
+Class B -> 65 thousand usable address
+Class C -> 254 usable address 
+
+The IANA assigned the according to this ,based on the organization demand.
+
+But this led to wasted ip address .
+Suppose an organization needs only 5000 ip address .So we choose class B network but it provides the 65 thousand ip address and hence in this case 
+60 thousand ip address is wasted.
+
+Hostable Usable address is calcuated using the 2^n -2 where n is the number of host bit.
+
+Now there comes the concept of CIDR.
+CIDR stands for the Classless Inter Domain Routing.
+It allows the Subnetting.
+
+Subnet Mask - It is used to separate ip address into network and host portion.
+Example - IP address = 192.168.1.1 and subnet mask = 255.255.255.0
+
+CIDR Notation - It is used to represent ip address with prefix length.
+Example - 192.168.2.5 /24 here 192.168.2.5 is an ip address and /24 is prefix length.
+
+Prefix length = It is used to represent the network portion in the ip address.
+Example - /24 represent 24 bit belongs to the network address of the IP address.
+
+No. of subnet is calculated using the 2^n where n is the number borrowed from host portion of the ip address.
+

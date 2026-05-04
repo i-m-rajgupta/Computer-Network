@@ -1,0 +1,26 @@
+Hello Everyone,
+
+Today Topic is subnetting
+
+In this we will discuss about how to divide a network to given number of subnets ,how to calculate subnet from ip address and many more concepts.
+
+To Divide a network into given no. of subnets, we have to calculate no. of bits required to borrowed from host portion of the network.
+This can be calculted with the help of 
+2^n >= no. of subnet (where n = no. of required bits to be borrowed from host portion ).
+
+To divide a network on the basis of given usable host  addresses .
+We have to 2^n -2 >= usable host address .(where n is the total no. of bits in the host portion )
+
+We can find the subnet from IP address by using these steps :
+calculate the prefix length in the subnet mask (binary format)
+Represent the IP address in binary format.
+Now with the help of subnet mask put the 0's in all the host portion of the IP address .
+Now the resultant IP address is the subnet of that IP.
+
+For any network, we find these important things are :
+a)Network address - All the host bits are 0's
+b)Broadcast address - All the host bits are 1's
+c)First usable Address - Last bit of network address is 1
+d)Last usable address - Last bit of Broadcast address is 0 
+e)Total no. of usable host IP Address - 2^n - 2 (where n is the total no. of bits in the host portion of the network)
+

@@ -1,0 +1,37 @@
+Hello Everyone,
+
+Today Topic is Assinging the IP Address
+
+Simulation means imitating how something works, but not using the real system inside. It’s like a “model” of the real thing.
+Example: Cisco Packet Tracer
+It shows how routers and switches behave, but they are not real devices—just simplified versions.
+Emulation means copying a real system exactly, including how it works internally.
+Example: GNS3
+It runs real networking software (like real router OS), so it behaves almost exactly like actual devices.
+
+Cisco Packet Tracer is a network simulation and visualization tool developed by Cisco Systems. 
+
+GNS3 is a network emulation tool that lets users run real networking operating systems (like Cisco IOS) on a computer.
+
+Routers – A router is a networking device that connects different networks and forwards data between them using IP addresses.
+
+Devices – Devices are hardware components used to connect, manage, or transfer data in a network.
+
+Switch – It connects different devices with them and store the information 
+about it in mac table.
+
+In Cisco packet tracer cli  , There are 3 main mode in the networking devices.
+These are User mode ,Privileged mode and Config mode.
+User mode : User mode is the basic access level of the device . Using this, we can view limited information and run simple commands.
+Privileged mode :  Privileged Mode gives the full access to view and manage the device.
+Config mode : Using this mode we can make change and set up the device setting.
+
+IP address – It is a unique identifier given to each device on a network so that it can communicate with others.
+Ex – 192.168.1.1
+Default gateway - A default gateway is the device that connects your network to other networks .
+ipconfig – This command is used to check the IP address and other network
+     details .
+Ping -  This command is used to check the connectivity between two devices on network.
+
+
+

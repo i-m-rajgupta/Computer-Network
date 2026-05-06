@@ -1,0 +1,40 @@
+Hello Everyone,
+
+Today Topic is IP Addressing through subnetting
+
+Using this we can divide a single network into multiple subnets and use the IP address accordingly.
+
+Example : We have to build a network for company A which has 4 offices and They have the network 192.168.10.0/24.Assign the IP to devices by subnetting
+to the equal no. of usable hosts .
+
+We have network 192.168.10.0/24
+Here prefix length = /24
+Now we have to divide into four subnets as there is four office in company .
+2^n = no. of subnets (where is n is no. of borrowed bit from host portion ).
+2^n = 4
+n = 2
+So , in this case we borrow the two bit from host portion to the network portion.
+Now prefix length becomes /26.
+
+Converting 192.168.10.0 into 4 subnets
+       192    .        168    .        10      .      0        /24
+11000000 . 10101000 . 00001010 . 00000000
+ 4 subnets are formed by using 00 , 01 , 10 and 11 in the borrowed 
+ host bit of the IP .
+Subnet mask : 255.255.255.192
+11111111 . 11111111 . 11111111 . 11000000
+First subnet :
+       192    .        168    .        10      .      0        /26
+11000000 . 10101000 . 00001010 . 00|000000
+
+Second subnet :
+       192    .        168    .        10      .      64        /26
+11000000 . 10101000 . 00001010 . 01|000000
+Third subnet :
+       192    .        168    .        10      .      128        /26
+11000000 . 10101000 . 00001010 . 10|000000
+Fourth subnet :
+       192    .        168    .        10      .      192        /26
+11000000 . 10101000 . 00001010 . 11|000000
+
+Now we have created the four subenets from one network 192.168.10.0/24 and now we are ready for Assinging the IP address to different devices according to our requirements.

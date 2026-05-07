@@ -1,0 +1,23 @@
+Hello Everyone,
+
+Today topic is subnetting with vlsm
+
+In IP subnetting, (Fixed Lenth Subnet Mask ) FLSM and (Variable Length Subnet Mask ) VLSM are two ways of dividing a network into smaller subnets.
+
+With FLSM, every subnet uses the same subnet mask .
+ It has same number of IP and usable host address.
+Ex – If we subnet network 192.168.10.1/24 into /26
+The subnet will 192.168.10.0/26 ,192.168.10.64/26 ,192.168.10.128/26
+and 192.168.10.192/26 .
+Subnet Mask : 255.255.255.192
+Every Subnet will be identical with 64 IP Address and 62 Host usable address
+
+With VLSM ,Different subnets can use different subnet masks.
+It allows larger departments uses the larger subnets and smaller departments uses the smaller subnets.
+It is more efficient .
+Example : Suppose that we have different departments in our university and different department needs different no. of hosts.
+Engineering – 5000 hosts , Exam Department – 2000 hosts , Library – 500 hosts , Sociology – 800 hosts , Arts – 600 hosts .  
+We have network 172.10.0.0/16.
+Here ,we can use Subnetting with VLSM . 
+
+

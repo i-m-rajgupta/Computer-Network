@@ -1,0 +1,50 @@
+Hello Everyone 
+
+Today's topic is OSI Protocol Data Unit (PDU)
+
+OSI PDU (Protocol Data Unit) is the unit of data used at each layer of the OSI model during network communication.
+Each layer adds its own control information to the data, and the data is given a different PDU name.
+
+Working of PDU
+
+From sender side , When data is sent :
+
+The Application layer creates the data
+Each lower layer adds its own header 
+The PDU name change in each layer 
+Finally bits are transmitted through the network
+This process is called Encapsulation
+
+At receiver side :
+
+Each layer removes its corresponding header
+The original data is recovered
+This process is called Decapsulation
+
+Layer By Layer Explanation :
+
+At Application , Presentation and Session layer 
+The PDU name is Data 
+It deals with user interaction , encrypting ,session management
+
+At Transport layer
+
+PDU is called Segment(TCP) /Datagram(UDP)
+It breaks the large data into smaller ones and add ports number
+TCP ensures reliable delivery 
+UDP provides best effort delivery where fast communication is needed 
+
+At Network layer
+The PDU is called Packets
+This layer adds the IP Address and provides the best path to reach the destination
+
+At Data Link Layer
+The PDU is called Frame
+This layer adds MAC Address and  handles local network delivery 
+
+At Physical layer
+The PDU is called Bits
+Data is converted into electrical , optical and radio signals 
+It sent as Binary digits 0 and 1
+
+

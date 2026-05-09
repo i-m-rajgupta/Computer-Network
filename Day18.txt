@@ -1,0 +1,13 @@
+Hello Everyone
+
+Today topic is Bits
+
+In physical layer the OSI PDU is Bits
+Bits are the smallest unit of data.
+They have only two value 0 and 1
+These represent the electrical voltage or digital signals as
+ON/OFF
+LOW / HIGH voltage
+True / False
+All the data over network is transmitted as sequence of bits such as 
+      text, image ,video and many more.

@@ -11,3 +11,82 @@ LOW / HIGH voltage
 True / False
 All the data over network is transmitted as sequence of bits such as 
       text, image ,video and many more.
+
+Computers use binary number system
+Binary has only two digits 0 and 1
+Decimal value in Binary
+0 – 00
+1 – 01
+2 – 10
+3 – 11
+Binary System is used because electronic system has two state ON/OFF
+It is easy for circuits to process
+
+Bit – It is used to singular binary digit 
+Ex – 0, 1
+Byte – Group of 8 bits is called Byte 
+Ex – 10101010
+Bits are used to measure network speed
+Ex – 10 Mbps,100 Kbps
+Bytes are used to  measure the file size 
+Ex – 100 MB, 50 MB
+
+To transmit the data in Bits 
+a) Convert the data into bits
+b) Bits transmitted through network
+c) Receiver decodes the bits back into data  
+
+Ex :- If “Hii” is send  
+ It is converted into binary with the help of ASCII ( American Standard Code for Information Interchange )
+H -> 01001000 (72  in decimal) 
+i-> 01101001  (105 in decimal)
+Bits = 01001000 01101001 01101001
+This bits are transmitted through the network and receiver decodes these bits into “Hii”
+
+ASCII stands for American Standard Code for Information Interchange
+ It is a character encoding standard used by computers to represent text
+Standard ASCII uses 7 bits 
+Values from 0 to 127
+It Includes :
+Letter ( A-Z ) ,( a-z )
+Numbers (0-9)
+Symbols like !,@,# and many more 
+Control signals like ACK
+Later versions use 8 bits (0–255) to include more characters like accented letters
+
+UTF – 8 :- It is most common on web .
+It is Variable Length Encoding
+It uses 1 to 4 bytes 
+Backward Compatible with ASCII
+Example -
+‘A’   Unicode - U+0041   Binary – 01000001
+“Hii” – “01001000 01101001 01101001” in ASCII
+“Hii” – “01001000 01101001 01101001” in UTF-8
+Same bytes because UTF-8 was designed to preserve ASCII compatibility.
+
+For Linux
+ Use the locale command to check the UTF version 
+
+An image in a computer is not stored as a picture directly.
+It is stored as a grid of numbers, and those numbers are written in binary (bits: 0 and 1).
+Every image is made up of tiny dots called pixels
+ Each pixel represents one small part of the image
+ More pixels = clearer image
+Black & White Image Representation : In this two bits are used 0 for Black pixel and 1 for White pixel
+Ex –   1 0 1 
+          0 1 0 
+          1 1 0
+This 3*3 matrix of bits forms the image 
+
+Resolution means the number of pixels in an image.
+It as written as Width X Height 
+Common Resolution 
+HD: 1280 × 720 Full HD: 1920 × 1080 4K: 3840 × 2160
+It means , for Full HD 1920 pixels horizontally 1080 pixels vertically present
+No. of pixels = Width X Height 
+Image size = no. of pixel * bits/bytes per pixel 
+For example : For Full HD in (RGB color model)
+No. of pixel = 1920 * 1080 = 2073600 pixels 
+Total no. of bytes = 2073600 * 3 bytes= 6220800 bytes = 62 MB
+In bits = 6220800 * 8 = 49766400 bits 
+

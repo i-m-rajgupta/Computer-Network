@@ -1,3 +1,86 @@
 Hello Everyone,
 
 Today topic is Transmission Medium 
+
+In a computer network, a transmission medium is the physical or wireless path through which data travels from one device to another.
+It determines speed, reliability, and cost of communication in a network.
+
+It can be of two types :
+Guided Media
+Unguided Media
+
+These uses the physical medium to travel the data 
+Twisted-pair and coaxial cable use metallic (copper)conductors that 
+     accept and transport signals in the form of electric current.
+Optical fiber is a cable that accepts and transports
+     signals in the form of light.
+Twisted Pair Cable :
+Two insulated copper wires twisted together 
+Used in telephone lines and LANs 
+Example: Ethernet cables
+
+Coaxial Cable :
+Central conductor with insulation and shielding 
+Better protection from noise than twisted pair 
+Used in cable TV and internet connections 
+Optical Fiber Cable :
+Uses light to transmit data 
+Very high speed and long-distance communication 
+Immune to electromagnetic interference
+
+These transmit data through air (no physical connection).
+Radio Waves : 
+Used in radio, Wi-Fi 
+Can travel long distances 
+ Microwaves :
+High-frequency waves 
+Used in satellite communication and mobile networks 
+Infrared :
+Short-range communication 
+Used in remote controls and some wireless devices
+
+The most common UTP connector is RJ45 (RJ stands for registered jack).
+The RJ45 is a keyed connector, meaning the connector can be inserted in only one way.
+
+Coaxial cable (or coax) carries signals of higher frequency ranges than 
+     those in twisted pair cable
+Coax has a central core conductor of solid or stranded wire (usually  
+     copper) enclosed in an insulating sheath, which is, in turn, encased in an    
+      outer conductor of metal foil, braid, or a combination of the two. 
+The outer metallic wrapping serves both as a shield against noise and as 
+      the second conductor, which completes the circuit.
+This outer conductor is also enclosed in an insulating sheath, and the whole 
+      cable is protected by a plastic cover. 
+
+Coaxial cables are categorized by their radio government (RG) ratings.
+Each RG number denotes a unique set of physical specifications, including 
+     the wire gauge of the inner conductor, the thickness and type of the inner           
+      insulator, the construction of the shield, and the size and type of the outer 
+      casing.
+ Each cable defined by an RG rating is adapted for a specialized function
+
+The most common type of connector for coaxial cable used today is the Bayone-Neill-Concelman (BNe), connector.
+The popular types of these connectors:
+BNC connector,  BNC T connector, and the BNC terminator.
+The BNC connector is used to connect the end of the cable to a device,  
+      such as a TV set.
+The BNC T connector is used in Ethernet networks to branch out to a 
+      connection to a computer or other device.
+The BNC terminator is used at the end of the cable to prevent the reflection 
+      of the signal.
+
+A fiber-optic cable is made of glass or plastic and transmits signals in the 
+     form of light.
+Light travels in a straight line as long as it is moving through a single uniform substance.
+If a ray of light traveling through one substance suddenly enters another 
+     substance (of a different density), the ray changes direction.
+
+In Single Mode, Only Single beam can travel through the core 
+In Multimode, Multiples beam can travel through the core 
+In multimode step-index fiber, the density of the core remains constant from the center to the edges.
+In multimode graded-index decreases this distortion of the signal through the cable. The word index here refers to the index of refraction.
+Density is highest at the center of the core and decreases gradually to its lowest at the edge.
+
+The subscriber channel (SC) connector is used for cable TV. It uses a push/pull locking system.
+The straight-tip (ST) connector is used for connecting  cable to networking devices. It uses a bayonet locking system and is more reliable than SC.
+MT-RJ is a connector that is the same size as RJ45.

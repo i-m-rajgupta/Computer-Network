@@ -1,0 +1,88 @@
+Hello Everyone ,
+
+Today topic is Cabling system
+
+Computer networks require communication media to transfer data between 
+devices. These cables are essential for establishing communication between  
+computers, switches, routers, and other networking device.
+
+Twisted Pair Ethernet cable is example
+Network cables:
+Transfer digital data signals 
+Enable communication between devices 
+Support Local Area Networks (LANs) 
+Provide reliable wired communication 
+
+The three major cable types used in networking are Straight-Through Cable 
+,Crossover Cable and Rollover Cable
+
+RJ-45 is the standard connector used in Ethernet networking.
+Features :
+8 pins 
+8 conductors 
+Also called 8P8C connector 
+Functions :
+Connects networking devices 
+Supports Ethernet communication 
+Used in LAN systems
+
+There are two standards recognized by ANSI, TIA and EIA for wiring Ethernet 
+cables. The first is the T568A wiring standard and the second is T568B. 
+T568B has surpassed 568A and is seen as the default wiring scheme for 
+twisted pair structured cabling.
+
+These standards defines the wire sequence ,pin arrangement and color coding.
+
+T568A STANDARD :
+It is an older standard and Used in some government installations .It is compatible 
+ with Ethernet standards.
+T568B STANDARD :
+Most commonly used standard 
+Preferred in commercial installations 
+Widely adopted globally 
+
+A straight through cable is a type of twisted pair cable that is used in local 
+area networks to connect a computer to a network hub such as a router.
+This type of cable is also sometimes called a patch cable and is an 
+alternative to wireless connections where one or more computers access a   
+router through wireless signal.
+
+On a straight through cable, the wired pins match.
+Straight through cable use one wiring standard: both ends use T568A wiring 
+standard or both ends use T568B wiring standard.
+
+Straight-through cables connect different networking devices.
+Different devices internally use opposite transmit and receive pairs.
+Example: Computer transmits and Switch receives on pair (1,2) Therefore, no wire crossover is needed.
+
+A crossover Ethernet cable is a type of Ethernet cable used to connect 
+computing devices together directly. 
+The internal wiring of Ethernet crossover cables reverses the transmit and 
+receive signals.
+Unlike straight through cable, the RJ45 crossover cable uses two different 
+wiring standards: one end uses the T568A wiring standard and the other    
+end uses the T568B wiring standard.
+
+It is most often used to connect two devices of the same type: e.g.
+two computers (via network interface controller) or two switches to each 
+other.
+
+Auto-MDIX allows modern networking devices to automatically detect:
+Transmit pair 
+Receive pair 
+Benefits
+Eliminates need for crossover cables 
+Simplifies installation 
+Improves compatibility 
+Today, many devices can use straight cables universally.
+
+A rollover cable completely reverses all pin connections.
+It is mainly used in Device configuration  and Console communication 
+It is also known as Console cable & Cisco console cable
+Rollover cables support serial communication instead of Ethernet communication.
+Used for:
+Router configuration 
+Switch management 
+Command-line interface access 
+Troubleshooting network devices
+

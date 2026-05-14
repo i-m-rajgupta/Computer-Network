@@ -1,0 +1,46 @@
+Hello Everyone,
+
+Today topic is Network components 
+
+Network components are the physical and logical parts that make a computer network work.
+It comprises both hardware and software components to make the network functional .
+The hardware components are the server, client, peer, transmission medium, and connecting devices.
+The software Components are Operating System and Protocols.
+They allow devices to communicate, share data, and access resources.
+The different components are used to provide the different functionality 
+Example of hardware components  are router , switch, bridge, cable etc. and software network is TCP,HTTP,FTP etc.
+
+Hardware components are the physical devices used to connect computers and allow them to communicate and share data.
+ Each component has specific features and uses.
+It provides the connectivity through which devices can communicate 
+Hardware components transfer quickly and accurately across the network 
+It provides the security in network
+It provides the scalability, we can expand the network by simply adding the switches and routers
+It ensures the reliable and stable communication .
+Different hardware components are used to increase the network speed
+
+The major hardware components of the network are :
+Server – A powerful computer that provides services, data, or resources to other computers
+It provides the  High storage and processing power 
+It is used in  Central management of data and services
+It Stores files, manages users , hosts websites , databases, email, etc.
+Client - A computer or device that requests services from a server 
+It provides User-friendly access to network resources 
+It is used in Access applications, files, and internet
+It is used by users to access files, internet, applications, and network resources
+
+Peer - A computer that can act as both a client and a server in a peer-to-peer network
+It provides  Equal communication between computers 
+It is used in  Small networks and direct sharing
+It is Used for direct file and resource sharing between computers
+
+Transmission Medium - The path through which data travels
+It includes cables (wired) and wireless signals
+It enables data transfer physically or wirelessly 
+Optical fiber ,Ethernet and Wi-Fi are some example of Transmission Medium
+
+Connecting Devices - Devices used to connect and manage communication between network devices
+IT controls and directs network traffic 
+It builds and manages network communication
+IT includes devices like routers, switches, hubs, modems, bridges and many more 
+

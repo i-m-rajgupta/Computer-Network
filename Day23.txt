@@ -1,0 +1,30 @@
+Hello Everyone
+
+Today topic is Modem
+
+A modem in a computer network is a device used to connect a computer (or network) to the internet by converting signals between different forms.
+The word modem comes from:
+Mo → Modulator 
+Dem → Demodulator
+A modem performs two main functions:
+Modulation 
+Converts digital data from a computer into analog signals 
+This allows data to travel over communication lines like telephone cables 
+Demodulation 
+Converts incoming analog signals back into digital data 
+So the computer can understand the information
+
+Modulation allows multiple signals to share the same medium at the same time using different carrier frequencies (called FDM – Frequency Division Multiplexing). This increases network capacity.
+To reduce noise and interference :
+Direct digital signals are more vulnerable to noise. Modulation helps shift signals into frequency bands where transmission is more stable and less noisy.
+Demodulation works in reverse—it converts the RF carrier wave received from your internet provider into digital signals your home network can use.
+
+Basic Working of Modem
+ISP sends signals. 
+Modem receives the signals.
+ Modem converts signals into digital data. 
+Data is sent to router/computer through Ethernet.
+ Devices access the internet.
+
+A router needs a modem. 
+A modem can work without a router.

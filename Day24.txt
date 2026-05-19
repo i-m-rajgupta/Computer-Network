@@ -1,3 +1,73 @@
 Hello Everyone 
 
 Today we will discuss about Hub
+
+A Hub is a hardware networking device used to connect multiple devices in a Local Area Network (LAN).
+It Operates at the Physical Layer (Layer 1) of the OSI model 
+It is also known as  multi-port repeater
+ Broadcasts data to all connected devices 
+It does not filter data
+ Uses shared bandwidth
+It contains the multiple port , internal circuitry and single repeater mechanism 
+
+Working of Hub 
+A sender device sends data to the hub.
+ Hub receives the signal. 
+Hub broadcasts the signal to all ports.
+ Every connected device receives the data. 
+Only the intended device accepts the frame.
+
+Sender   --->    Hub     --   Receiver 
+Hub cannot identify destination addresses.
+
+When two devices send data simultaneously, signals collide and is known as Collision 
+
+In Hub:
+Entire network shares one collision domain 
+Data may be destroyed 
+Devices send a Jam Signal 
+Devices wait random time before retransmission 
+
+It results in slower communication and reduced efficiency 
+
+A passive hub only connects devices.
+Features : 
+No signal amplification 
+No signal regeneration 
+No electricity required 
+Simply forwards signals 
+
+It is cheap and simple 
+Weak signal over long distance
+
+Active Hub
+An active hub regenerates and amplifies signals.
+Requires power supply 
+Strengthens weak signals 
+Improves communication quality 
+
+Better signal transmission & longer communication distance 
+More expensive
+
+Intelligent Hub
+A smart hub with management capabilities.
+Traffic monitoring 
+Troubleshooting support 
+Port management 
+Contains MIB (Management Information Base) 
+
+It has Better network control and Easy fault detection 
+It has Higher cost 
+Also it is more complex
+
+Hub Affect Network Speed
+Shared bandwidth among all devices
+ Broadcasts data to every port 
+Increased collisions
+ More traffic congestion
+
+Slower communication
+ Delays in data transmission
+Hub is used in Small LAN , Schools and labs
+Hub is mostly replaced by switches due to better performance.
+

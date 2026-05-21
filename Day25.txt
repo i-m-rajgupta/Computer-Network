@@ -1,0 +1,94 @@
+Hello Everyone
+
+Today we will discuss about NIC( Network Interface Card )
+
+NIC stands for Network Interface Card 
+It is a hardware or virtual component used to connect a computer to a network 
+NIC acts as an interface between the device and the network 
+It allows communication by sending and receiving data 
+Every network-enabled device requires a NIC 
+It is also known as Network Adapter ,Ethernet Card , LAN Adapter 
+      and Network Interface Controller 
+
+Without a NIC, a computer cannot:
+Connect to the internet 
+Join a LAN/WAN 
+Send or receive data 
+Access shared resources 
+Communicate with other devices
+
+NIC enables Internet connectivity, File sharing ,Network communication, Virtualization networking and many more!!
+
+It also provides Error checking ,Traffic management ,Security handling, 
+Interrupt processing
+
+NIC and OSI Model
+NIC mainly works at:
+
+Physical Layer
+Converts digital data into Electrical signals Radio waves ,Optical signals
+ 
+Data Link Layer
+Handles MAC addressing ,Frame transmission & Error detection
+
+MAC = Media Access Control Address 
+Unique identifier assigned to every NIC
+
+Characteristics
+
+48-bit address 
+Permanently assigned by manufacturer 
+Used for device identification 
+Example -  34-1A-4D-78-9F-EF (hexadecimal)
+
+Working of NIC
+Steps
+User sends request 
+OS forwards data to NIC 
+NIC converts data into signals 
+Data travels through network 
+Receiver NIC accepts signals 
+Signals converted back to data 
+Signal Conversion
+Digital → Electrical/Radio 
+Electrical/Radio → Digital
+
+1. Physical Network Address
+Unique MAC address 
+Identifies device on network 
+2. Network Port
+Ethernet/Fiber/Wireless port 
+Connects to network medium 
+3. LED Indicators
+Link Light → Connection status 
+Activity Light → Data transfer indication 
+4. Driver Support
+NIC requires software drivers 
+Allows communication with OS
+
+A physical NIC is actual hardware installed in the computer.
+Types
+Ethernet NIC ,Wi-Fi NIC and Fiber NIC 
+
+A logical NIC is software-created network adapter.
+It is created By VMware ,VirtualBox Hyper-V ,Docker ,VPN software 
+Purpose
+Virtual machine communication 
+Container networking 
+Internal virtual networks 
+Examples :
+VMware VMnet1 
+VMware VMnet8 
+Hyper-V vEthernet 
+VirtualBox Host-Only Adapter
+
+Types of NIC
+Based on Connection Type
+Wired NIC 
+Wireless NIC 
+Based on Technology
+Ethernet NIC 
+Fiber Optic NIC 
+USB NIC 
+PCI NIC 
+Wireless Wi-Fi NIC

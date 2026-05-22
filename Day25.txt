@@ -92,3 +92,13 @@ Fiber Optic NIC
 USB NIC 
 PCI NIC 
 Wireless Wi-Fi NIC
+
+Commands to Check NIC
+ View Network Configuration
+ipconfig /all
+
+View MAC Address
+Getmac
+
+Open Network Connections
+ncpa.cpl

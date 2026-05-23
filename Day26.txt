@@ -1,5 +1,49 @@
 Hello Everyone 
 Today topic is Bridge
 
-Bridge are used to connect multiple lan 
+A bridge is a networking device used to connect multiple LAN (Local Area Network) segments 
+It operates at the Data Link Layer (Layer 2) of the OSI Model
+ It helps in combining smaller LANs into a larger LAN 
+It is also called a Layer 2 device or traffic filter device
+A bridge connects two or more LANs into one network 
+It controls data flow using MAC addresses 
+It decides whether to: Forward data Filter data 
+It improves network performance and reduces congestion
+
+Working of Bridge :
+Receives data from LAN segments 
+Learns source MAC addresses 
+Builds MAC address table 
+Compares destination address 
+Forwards or filters data accordingly 
+Repeats process for both directions
+
+Local Bridging :
+Connects LANs in the same location 
+Uses local cables 
+Fast communication 
+
+ Remote Bridging :
+Connects LANs over WAN 
+Used for long-distance communication
+
+Transparent Bridge :
+Most common type 
+Used in Ethernet networks 
+Devices are unaware of the bridge 
+Automatically learns MAC addresses 
+Performs filtering and forwarding
+
+Source Routing Bridge
+Developed by IBM 
+Used in Token Ring networks 
+Sender decides the path of data 
+Route is embedded in the frame 
+
+Translational Bridge
+Connects different network types 
+Example: Ethernet ↔ Token Ring 
+Converts frame formats 
+Ensures communication between different systems 
+
 
